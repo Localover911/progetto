@@ -1,21 +1,87 @@
-# proggetto
-Lista requisiti piattaforma didattica
+STUD.IO
+1. Descrizione
 
-Descrizione:
-La piattaforma è una sorta di social network educativo dove gli utenti possono condividere materiale didattico come appunti, schemi o esercizi e consultare quelli caricati da altri. Oltre alla condivisione dei contenuti, permette di interagire tramite chat o commenti e di mettersi in contatto per organizzare spiegazioni o ripetizioni, con la possibilità di gestire anche lezioni a pagamento. L’obiettivo è creare uno spazio collaborativo dove studiare, trovare risorse utili e ricevere supporto da altri studenti o tutor.
+Stud.io è una piattaforma online progettata per favorire lo studio collaborativo tra studenti. Si presenta come un social network educativo in cui gli utenti possono condividere appunti, schemi, esercizi e materiali didattici.
+La piattaforma consente inoltre l’interazione tra utenti tramite commenti e chat, mettendo in contatto studenti e tutor. È possibile anche organizzare lezioni e ripetizioni, sia gratuite che a pagamento.
+L’obiettivo è creare un ambiente digitale unico che supporti l’apprendimento condiviso e migliori il metodo di studio degli studenti.
 
--Requisiti Funzionali
-Il sistema deve permettere agli utenti di registrarsi, caricare e cercare materiale didattico, interagire tramite chat o commenti e richiedere lezioni o ripetizioni, anche con pagamento.
+2. Problema
 
--Requisiti Non Funzionali
-La piattaforma deve essere facile da usare, veloce, sicura nei dati e nei pagamenti e funzionare in modo stabile anche con molti utenti.
+Molti studenti affrontano difficoltà nello studio a causa di:
 
--Requisiti di Dominio
-Devono essere rispettate le regole su privacy, copyright dei materiali e gestione corretta di pagamenti e rimborsi secondo le normative.
+-Mancanza di materiali chiari e organizzati
+-Difficoltà nel trovare aiuto rapido
+-Isolamento nello studio individuale
+-Costi elevati delle ripetizioni private
+
+Stud.io nasce per risolvere questi problemi offrendo uno spazio centralizzato, accessibile e collaborativo.
+
+3. Target
+
+Il target principale comprende:
+
+-Studenti delle scuole superiori
+-Studenti universitari
+
+Target secondario:
+
+-Tutor (studenti avanzati o insegnanti)
+-Docenti interessati alla condivisione di materiali
+
+4. Competitors e analisi comparativa
 
 
-Tabella di Bench Marking per analisi dei competitors:
-<img width="808" height="127" alt="{752DC057-B8D5-4890-BD7E-A13D6C2F4BD7}" src="https://github.com/user-attachments/assets/8d146168-3a2f-4852-9346-ce4953ec19e7" />
+5. Tecnologie utilizzate
+Frontend: HTML, CSS, JavaScript (React)
+Backend: Node.js / Python
+Database: MongoDB / MySQL
+Cloud: AWS / Google Cloud
+Chat: WebSocket
+Pagamenti: Stripe / PayPal
+
+6. Requisiti
+-Requisiti funzionali
+Registrazione e login utenti
+Caricamento e download materiali
+Sistema di commenti
+Chat tra utenti
+Prenotazione lezioni
+Sistema di pagamento
+
+-Requisiti non funzionali
+Sicurezza dei dati
+Alta disponibilità
+Interfaccia intuitiva
+Scalabilità della piattaforma
+
+-Requisiti di dominio
+Gestione contenuti educativi
+Classificazione per materie
+Sistema di valutazione utenti/tutor
+
+7. User Story
+<img width="623" height="534" alt="user story" src="https://github.com/user-attachments/assets/db7e9025-70be-47f4-8f30-66d27f504787" />
+
+8. Elevator Pitch
+
+Ciao, sono Locatelli Federico, fondatore di Stud.io. Sapete che molti studenti oggi faticano a studiare in modo efficace a causa della mancanza di materiali chiari e del poco supporto immediato? Abbiamo creato Stud.io per risolvere questo problema.
+
+Siamo una piattaforma digitale che unisce social network, condivisione di appunti e tutoring in un unico spazio. Gli studenti possono condividere materiali, collaborare tra loro e accedere facilmente a tutor qualificati, anche per lezioni a pagamento.
+
+A differenza delle piattaforme tradizionali, Stud.io non offre solo contenuti, ma crea una vera comunità interattiva, dove imparare diventa più semplice, veloce e collaborativo.
+
+Il mercato dell’educazione digitale è in forte crescita e solo in Italia conta milioni di studenti. Stimiamo, già nel primo anno, di raggiungere almeno 10.000 utenti attivi, con un modello di ricavi basato su commissioni sulle lezioni, abbonamenti premium e servizi aggiuntivi, per un fatturato potenziale di circa 80.000€.
+
+Abbiamo già progettato l’infrastruttura tecnologica con sistemi di chat, condivisione sicura dei file e pagamenti integrati per le ripetizioni.
+
+Oggi cerchiamo un investimento iniziale di 50.000€ per completare lo sviluppo, coprire i costi di lancio e marketing e portare Stud.io sul mercato con una versione beta competitiva.
+
+Siete pronti a rivoluzionare insieme a noi il modo di studiare?
 
 
-Tabella dei casi d'uso:
+9. Business Model
+Freemium: accesso gratuito ai contenuti base + Abbonamenti premium: funzionalità avanzate
+Commissioni: percentuale sulle lezioni a pagamento
+
+
+10. WBS (Work Breakdown Structure)
