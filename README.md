@@ -1,14 +1,13 @@
 STUD.IO 
 
-1. Descrizione
+-Descrizione
    
 Stud.io è una piattaforma online progettata per favorire lo studio collaborativo tra studenti. Si presenta come un social network educativo in cui gli utenti possono condividere appunti, schemi, esercizi e materiali
 didattici.
 La piattaforma consente inoltre l’interazione tra utenti tramite commenti e chat, mettendo in contatto studenti e tutor. È possibile anche organizzare lezioni e ripetizioni, sia gratuite che a pagamento.
 L’obiettivo è creare un ambiente digitale unico che supporti l’apprendimento condiviso e migliori il metodo di studio degli studenti.
 
-
-2. Problema
+-Problema
 
 Molti studenti affrontano difficoltà nello studio a causa di:
 -Mancanza di materiali chiari e organizzati
@@ -19,7 +18,7 @@ Molti studenti affrontano difficoltà nello studio a causa di:
 Stud.io nasce per risolvere questi problemi offrendo uno spazio centralizzato, accessibile e collaborativo.
 
 
-3. Target
+-Target
 
 Il target principale comprende:
 -Studenti delle scuole superiori
@@ -30,10 +29,11 @@ Target secondario:
 -Docenti interessati alla condivisione di materiali
 
 
-4. Competitors e analisi comparativa
+-Competitors e analisi comparativa
+<img width="612" height="364" alt="image" src="https://github.com/user-attachments/assets/6f6e7ca2-4bea-450d-917e-e108da405c67" />
 
 
-5. Tecnologie utilizzate
+-Tecnologie utilizzate
 
 Frontend: HTML, CSS, JavaScript (React)
 Backend: Node.js / Python
@@ -43,7 +43,7 @@ Chat: WebSocket
 Pagamenti: Stripe / PayPal
 
 
-6. Analisi dei Requisiti
+-Analisi dei Requisiti
    
 -Requisiti funzionali
 Registrazione e login utenti
@@ -65,11 +65,11 @@ Classificazione per materie
 Sistema di valutazione utenti/tutor
 
 
-7. User Story
+-User Story
 <img width="623" height="534" alt="user story" src="https://github.com/user-attachments/assets/db7e9025-70be-47f4-8f30-66d27f504787" />
 
 
-8. Elevator Pitch
+-Elevator Pitch
    
 Ciao, sono Locatelli Federico, fondatore di Stud.io. Sapete che molti studenti oggi faticano a studiare in modo efficace a causa della mancanza di materiali chiari e del poco supporto immediato? Abbiamo creato Stud.io per
 risolvere questo problema.
@@ -86,18 +86,39 @@ Oggi cerchiamo un investimento iniziale di 50.000€ per completare lo sviluppo,
 Siete pronti a rivoluzionare insieme a noi il modo di studiare?
 
 
-9. Business Model
+-Business Model
 Freemium: accesso gratuito ai contenuti base + Abbonamenti premium: funzionalità avanzate
 Commissioni: percentuale sulle lezioni a pagamento
 
 
-10. Use case UML
-  
+-Use case UML
+<img width="1010" height="643" alt="yumslime" src="https://github.com/user-attachments/assets/82d47ad6-1373-4c6d-8f49-77369fed2c2c" /> 
 
-11. WBS (Work Breakdown Structure)
+-WBS (Work Breakdown Structure)
 
+-Analisi progetto
+1.1 Raccolta requisiti
+1.2 Analisi mercato
 
-12. cronoprogramma
+-Progettazione
+2.1 Architettura sistema
+2.2 Design UI/UX
+
+-Sviluppo
+3.1 Frontend
+3.2 Backend
+3.3 Database
+
+-Testing
+4.1 Test funzionali
+4.2 Bug fixing
+
+-Lancio
+5.1 Deploy
+5.2 Marketing
+
+-cronoprogramma
+<img width="571" height="458" alt="image" src="https://github.com/user-attachments/assets/6f6b59a9-7838-4da9-bb0d-4d026a6fd277" />
 
 
 
