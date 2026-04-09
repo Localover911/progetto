@@ -30,7 +30,9 @@ Target secondario:
 
 
 -Competitors e analisi comparativa
-<img width="612" height="364" alt="image" src="https://github.com/user-attachments/assets/6f6e7ca2-4bea-450d-917e-e108da405c67" />
+
+
+<img width="622" height="338" alt="image" src="https://github.com/user-attachments/assets/47950164-abc2-4a1e-a74a-21a101b33729" />
 
 
 -Tecnologie utilizzate
@@ -66,6 +68,7 @@ Sistema di valutazione utenti/tutor
 
 
 -User Story
+
 <img width="623" height="534" alt="user story" src="https://github.com/user-attachments/assets/db7e9025-70be-47f4-8f30-66d27f504787" />
 
 
@@ -92,6 +95,7 @@ Commissioni: percentuale sulle lezioni a pagamento
 
 
 -Use case UML
+
 <img width="1010" height="643" alt="yumslime" src="https://github.com/user-attachments/assets/82d47ad6-1373-4c6d-8f49-77369fed2c2c" /> 
 
 -WBS (Work Breakdown Structure)
@@ -118,10 +122,12 @@ Commissioni: percentuale sulle lezioni a pagamento
 5.2 Marketing
 
 -cronoprogramma
+
 <img width="571" height="458" alt="image" src="https://github.com/user-attachments/assets/6f6b59a9-7838-4da9-bb0d-4d026a6fd277" />
 
 
 
 
 pagina web:
+
 <img width="1291" height="597" alt="image" src="https://github.com/user-attachments/assets/566c3143-3081-42b6-a7eb-0171507239c4" />
